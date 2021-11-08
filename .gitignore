@@ -26,7 +26,8 @@ hs_err_pid*
 HELP.md
 .gradle
 build/
-!gradle/wrapper/gradle-wrapper.jar
+gradle/wrapper/gradle-wrapper.jar
+gradlew.bat
 !**/src/main/**
 !**/src/test/**
 
